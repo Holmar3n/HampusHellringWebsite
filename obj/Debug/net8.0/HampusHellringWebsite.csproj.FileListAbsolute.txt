@@ -32,3 +32,4 @@ C:\Users\hampu\source\repos\HampusHellringWebsite\HampusHellringWebsite\obj\Debu
 C:\Users\hampu\source\repos\HampusHellringWebsite\HampusHellringWebsite\obj\Debug\net8.0\HampusHellringWebsite.pdb
 C:\Users\hampu\source\repos\HampusHellringWebsite\HampusHellringWebsite\obj\Debug\net8.0\HampusHellringWebsite.genruntimeconfig.cache
 C:\Users\hampu\source\repos\HampusHellringWebsite\HampusHellringWebsite\obj\Debug\net8.0\ref\HampusHellringWebsite.dll
+C:\Users\hampu\source\repos\HampusHellringWebsite\HampusHellringWebsite\obj\Debug\net8.0\HampusHellringWebsite.sourcelink.json

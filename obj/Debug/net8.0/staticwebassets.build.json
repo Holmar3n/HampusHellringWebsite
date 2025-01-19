@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "DQOtvAC4DN3HBe5ySS6KBVs3nG12bF4frm7IpSxgcaw=",
+  "Hash": "bOVVafZZY9lSzrjV2uAvkSonMXWDYGjfCEzXOYCLr0c=",
   "Source": "HampusHellringWebsite",
   "BasePath": "_content/HampusHellringWebsite",
   "Mode": "Default",
@@ -94,8 +94,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "bs6ay909r6",
-      "Integrity": "JVkecoBUy7TERj+I6mvdGuIwdA5/5chsm0kXCrQA7VM=",
+      "Fingerprint": "1ck4kbwp2y",
+      "Integrity": "8R/JmAggWyMahE8Jqf/a1BitXps3YgSX5GN+PaUud48=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\style.css"
@@ -1592,7 +1592,7 @@
       ]
     },
     {
-      "Route": "css/style.bs6ay909r6.css",
+      "Route": "css/style.1ck4kbwp2y.css",
       "AssetFile": "C:\\Users\\hampu\\source\\repos\\HampusHellringWebsite\\HampusHellringWebsite\\wwwroot\\css\\style.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -1602,7 +1602,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "7508"
+          "Value": "10003"
         },
         {
           "Name": "Content-Type",
@@ -1610,11 +1610,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"JVkecoBUy7TERj+I6mvdGuIwdA5/5chsm0kXCrQA7VM=\""
+          "Value": "\"8R/JmAggWyMahE8Jqf/a1BitXps3YgSX5GN+PaUud48=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 19 Jan 2025 11:20:36 GMT"
+          "Value": "Sun, 19 Jan 2025 20:15:41 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1624,7 +1624,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "bs6ay909r6"
+          "Value": "1ck4kbwp2y"
         },
         {
           "Name": "label",
@@ -1632,7 +1632,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-JVkecoBUy7TERj+I6mvdGuIwdA5/5chsm0kXCrQA7VM="
+          "Value": "sha256-8R/JmAggWyMahE8Jqf/a1BitXps3YgSX5GN+PaUud48="
         }
       ]
     },
@@ -1647,7 +1647,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "7508"
+          "Value": "10003"
         },
         {
           "Name": "Content-Type",
@@ -1655,11 +1655,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"JVkecoBUy7TERj+I6mvdGuIwdA5/5chsm0kXCrQA7VM=\""
+          "Value": "\"8R/JmAggWyMahE8Jqf/a1BitXps3YgSX5GN+PaUud48=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 19 Jan 2025 11:20:36 GMT"
+          "Value": "Sun, 19 Jan 2025 20:15:41 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1669,7 +1669,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-JVkecoBUy7TERj+I6mvdGuIwdA5/5chsm0kXCrQA7VM="
+          "Value": "sha256-8R/JmAggWyMahE8Jqf/a1BitXps3YgSX5GN+PaUud48="
         }
       ]
     },

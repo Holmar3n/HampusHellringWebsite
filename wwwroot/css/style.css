@@ -9,7 +9,7 @@ html, body {
     margin: 0;
     padding: 0;
     width: 100%;
-    min-height: 100%;
+    max-width: 100%;
 }
 
 body {
@@ -21,33 +21,36 @@ body {
     body::before {
         content: "";
         position: fixed;
-        top: -50px;
-        left: -100px;
-        width: 200vw; /* Ändrat från 100vw */
-        height: 200vh; /* Täcker hela höjden av fönstret */
+        width: 120vw; /* Ändrat från 100vw */
+        height: 110vh; /* Täcker hela höjden av fönstret */
+        top: -5%;
+        left: -15%;
         background: url('/images/bakgrundsbild_hemsida.jpg') no-repeat center center;
         background-size: cover; /* Anpassar bakgrunden till skärmens storlek */
         filter: blur(30px); /* Suddar bakgrunden */
         z-index: -1; /* Placera bakom allt innehåll */
-        background-position: left center;
+        background-position: center;
     }
 
 
 /* Header */
 .main-header {
-    margin-left: -310px;
     background: rgba(0, 0, 0, 0.9);
     color: #fff;
     position: sticky;
     top: 0;
     z-index: 1000;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.4);
-    height: 60px;
-    width: 140vw;
+    height: 100%;
+    width: 100%;
+    max-width: 100%;
+    padding: 0 20px;
+    margin: 0 auto;
     display: flex;
     justify-content: center;
     align-items: center;
     transition: background 0.3s, box-shadow 0.3s;
+    border-radius: 0 0 20px 20px;
 }
 
     .main-header nav ul {
@@ -76,19 +79,22 @@ body {
 
 
 .main-header-projects {
-    margin-left: -320px;
     background: rgba(0, 0, 0, 0.9);
     color: #fff;
     position: sticky;
     top: 0;
     z-index: 1000;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.4);
-    height: 60px;
-    width: 135vw;
+    height: 100%;
+    width: 100%;
+    max-width: 100%;
+    padding: 0 20px;
+    margin: 0 auto;
     display: flex;
     justify-content: center;
     align-items: center;
     transition: background 0.3s, box-shadow 0.3s;
+    border-radius: 0 0 20px 20px;
 }
 
     .main-header-projects nav ul {
@@ -127,6 +133,7 @@ body {
     box-shadow: 0 6px 30px rgba(0, 0, 0, 0.7);
     text-align: center;
     color: #fff;
+    border-radius: 20px 20px 0 0;
 }
 
     .hero::before {
@@ -138,6 +145,7 @@ body {
         height: 100%;
         background: rgba(0, 0, 0, 0.5);
         z-index: 1;
+        border-radius: 20px 20px 0 0;
     }
 
     .hero h1, .hero p {
@@ -200,8 +208,9 @@ body {
 
 .project-pic {
     display: block;
-    width: 500px;
-    height: 250px;
+    width: 100%; /* Anpassar sig till containerbredden */
+    max-width: 500px; /* Begränsar till en maximal storlek */
+    height: auto; /* Bevarar proportioner */
     object-fit: cover;
     border: 3px solid #ccc;
     border-radius: 10px;
@@ -330,3 +339,105 @@ body {
             color: #e05500; /* Ändrar färg vid hover */
             transform: scale(1.2); /* Förstorar ikonen vid hover */
         }
+
+
+.cv-container {
+    padding: 10px;
+    border-radius: 8px;
+    margin: 0 auto 20px auto;
+    max-width: 900px; /* Standardstorlek för större skärmar */
+    width: 100%; /* Anpassa för mindre skärmar */
+    text-align: center; /* Centrera innehållet */
+}
+
+    .cv-container img {
+        max-width: 100%; /* Ser till att bilden aldrig blir bredare än containern */
+        height: auto; /* Bevarar bildens proportioner */
+        border-radius: 8px; /* Rundade hörn för bättre utseende */
+        object-fit: contain; /* Ser till att bilden anpassas inom ramen */
+    }
+
+
+/* Responsiv design för olika skärmstorlekar */
+@media (max-width: 1200px) {
+    .project-pic {
+        max-width: 400px; /* Anpassa för mindre skärmar */
+    }
+}
+
+@media (max-width: 768px) {
+    .project-pic {
+        max-width: 90%; /* Ta upp mer av skärmens bredd */
+    }
+}
+
+@media (max-width: 480px) {
+    .project-pic {
+        max-width: 100%; /* Full bredd på mindre skärmar */
+        border-radius: 5px; /* Minska rundningen på mindre enheter */
+    }
+}
+
+
+/* Responsiv design för mindre skärmar */
+@media (max-width: 1200px) {
+    .cv-container {
+        max-width: 80%;
+    }
+}
+
+@media (max-width: 768px) {
+    .cv-container {
+        max-width: 90%;
+    }
+
+        .cv-container img {
+            max-width: 100%;
+            height: auto;
+        }
+}
+
+@media (max-width: 480px) {
+    .cv-container {
+        max-width: 100%;
+    }
+
+        .cv-container img {
+            width: 100%;
+            height: auto;
+        }
+}
+
+
+
+
+
+
+/* Mobiler (upp till 600px) */
+@media (max-width: 600px) {
+    body {
+        font-size: 14px;
+    }
+}
+
+/* Surfplattor (601px till 1024px) */
+@media (min-width: 601px) and (max-width: 1024px) {
+    body {
+        font-size: 16px;
+    }
+}
+
+/* Laptops och små skärmar (1025px till 1440px) */
+@media (min-width: 1025px) and (max-width: 1440px) {
+    body {
+        font-size: 18px;
+    }
+}
+
+/* Stora skärmar och desktops (1441px och uppåt) */
+@media (min-width: 1441px) {
+    body {
+        font-size: 20px;
+    }
+}
+
