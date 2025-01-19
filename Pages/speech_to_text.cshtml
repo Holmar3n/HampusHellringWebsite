@@ -1,0 +1,51 @@
+﻿@page
+@model HampusHellringWebsite.Pages.text_to_speechModel
+@{
+}
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Read More</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header class="main-header-projects">
+        <div class="container">
+        <nav>
+            <ul>
+                <li><a href="/Index">Home</a></li>
+                <li><a href="/Index#about">About Me</a></li>
+                <li><a href="/Index#projects">Projects</a></li>
+                <li><a href="/Index#education">Education</a></li>
+                <li><a href="/Index#cv">CV</a></li>
+                <li><a href="/Index#contact">Contact</a></li>
+            </ul>
+			</nav>
+		</div>
+    </header>
+    <main>
+		<section class="content-section">
+			<h1 id="title_small_margin">Speech To Text</h1>
+            <div class="image-container">
+                <img src="images/speech-to-text-desc2.jpg" class="project-pic">
+                <img src="images/speech-to-text-desc1.jpg" class="project-pic">
+            </div>
+			<div id="project_description">
+                <p>
+                    During my education, I had the opportunity to complete an internship at QuickSearch in Halmstad. 
+                    During this time, I was tasked with developing an API capable of processing recorded phone calls. 
+                    The API received an audio file, identified the different speakers, and transcribed their dialogue into text, which was then converted into a JSON file. 
+                    This solution was designed to facilitate the analysis of conversations, allowing for better insights and improvements based on the transcribed data.
+				</p>
+                <p>
+                    The API employed two AI models. A transcription model was used to convert spoken content into text, followed by a voice analysis model to determine the identity of each speaker.
+                    
+                </p>
+                
+			</div>
+        </section>
+    </main>
+    <footer class="main-footer">
+        <p>&copy; 2025 - Hampus Hellring. All rights reserved.</p>
+    </footer>
+</body>

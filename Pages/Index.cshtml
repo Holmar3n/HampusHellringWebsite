@@ -1,0 +1,155 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Hampus Hellring";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Personal website of Hampus Hellring, developer specialized in AI and backend development.">
+    <meta name="author" content="Hampus Hellring">
+    <title>@ViewData["Title"] - Hampus Hellring</title>
+
+    <!-- Länk till FontAwesome för ikoner -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+
+    <!-- Länk till Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+
+    <!-- Länk till egen CSS-fil -->
+    <link rel="stylesheet" href="~/css/site.css" />
+
+    <!-- Favicon -->
+    <link rel="icon" type="image/png" href="~/images/favicon.png">
+</head>
+
+<header class="main-header">
+    <div class="container">
+        <nav>
+            <ul>
+                <li><a href="#about">About Me</a></li>
+                <li><a href="#projects">Projects</a></li>
+                <li><a href="#education">Education</a></li>
+				<li><a href="#cv">CV</a></li>
+				<li><a href="#contact">Contacts</a></li>
+            </ul>
+        </nav>
+    </div>
+</header>
+
+<section class="hero">
+    <h1>Hey! I'm Hampus!</h1>
+    <p>Developer | Front/Backend & AI</p>
+    <div class="social-icons">
+        <a href="https://github.com/Holmar3n" target="_blank" class="icon">
+            <i class="fab fa-github"></i>
+        </a>
+        <a href="https://www.linkedin.com/in/hampus-hellring-740275288" target="_blank" class="icon">
+            <i class="fab fa-linkedin"></i>
+        </a>
+        <a href="https://www.instagram.com/hampushellring" target="_blank" class="icon">
+            <i class="fab fa-instagram"></i>
+        </a>
+
+    </div>
+</section>
+
+<section id="about" class="content-section">
+    <div class="container">
+        <img src="images/profilbild.jpg" class="profile-pic">
+        <h2>About Me</h2>
+        <h5 style="margin-bottom: 20px;">1999-01-16 | Sweden Halmstad | Friendly</h5>
+        <p>
+            I am a newly graduated developer with a strong passion for AI and backend development. I am actively seeking opportunities to apply my skills in backend or AI-related roles.
+            My journey in software development began a few years ago when I set out to create an application that analyzes Formula 1 data. This experience ignited my enthusiasm for programming, 
+            leading me to enroll in the "Object-Oriented Programming with AI Competence" program at Handelsakademin in Halmstad. Since then, my passion for development has grown exponentially every day.
+            My ultimate goal is to leverage my skills and knowledge to drive innovation and contribute to societal progress. With a deep interest in AI, I aim to create solutions that can help improve lives across various fields. 
+            I am eager to tackle challenging problems and collaborate with like-minded individuals to push the boundaries of technology.
+        </p>
+    </div>
+</section>
+
+<section id="projects" class="content-section">
+    <div class="container">
+        <h2 id="title_big_margin">Projects</h2>
+        <div class="project-grid">
+            <!-- Projekt 1 -->
+            <div class="project-item">
+                <img src="images/speech-to-text.jpg" alt="Phonecall VoiceTranscriber" class="project-image">
+                <h3>Phonecall VoiceTranscriber</h3>
+                <p>Transcribes phone calls to a JSON file to make it easier for companies to analyze their customers. This was made to help companies improve their products.</p>
+                <a href="speech_to_text" class="btn">Read more</a>
+            </div>
+            <!-- Projekt 2 -->
+            <div class="project-item">
+                <img src="path-to-image2.jpg" alt="Projekt 2" class="project-image">
+                <h3>Projekt 2</h3>
+                <p>En kort beskrivning av projektet. Klicka för att läsa mer!</p>
+                <a href="#" class="btn">Read more</a>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+<section id="education" class="content-section">
+    <div class="container">
+        <h2 id="title_small_margin">Education and Experience</h2>
+        <p>
+            Studerade Objektorienterad programmering med AI kompetens på Handelsakademin i Halmstad
+        </p>
+            
+    </div>
+</section>
+
+<section id="cv" style="margin-top: 100px;">
+    <h2>CV</h2>
+    <p>Below you can view my CV directly on the page or download it.</p>
+
+    <!-- Inbäddad visning av CV -->
+    <div style="border: 1px solid #ccc; padding: 10px; border-radius: 8px; margin-bottom: 20px; width: 735px; height: 825px;">
+        <iframe src="/images/CV.PNG" width="100%" height="100%" style="border: none;"></iframe>
+    </div>
+
+    <!-- Nedladdningsknapp -->
+    <a href="/files/Hampus Hellring_CV.docx" class="btn btn-success" download>Download CV</a>
+</section>
+
+
+
+<footer class="main-footer">
+    <section id="footer-content" class="content-section">
+        <div class="footer-content">
+            <h2 id="title_big_margin">Contacts and Links</h2>
+            
+            <div class="contact-info">
+                <p><i class="fas fa-user"></i> Full Name: Hampus Hellring</p>
+                <p><i class="fas fa-envelope"></i> Email: hhellring@gmail.com</p>
+                <p><i class="fas fa-phone"></i> Phone: +46 736361775</p>
+				<p><i class="fas fa-map-marker-alt"></i> Address: Halmstad, Sweden</p>
+                <p>LinkedIn: <a href="https://www.linkedin.com/in/hampus-hellring-740275288">LinkedIn-profil</a></p>
+				<p>GitHub: <a href="https://github.com/Holmar3n">Holmar3n</a></p>
+            </div>
+        </div>
+    </section>
+</footer>
+
+
+
+<script>
+    // Lägg till eller ta bort klassen 'scrolled' vid scroll
+    window.addEventListener('scroll', function () {
+        const header = document.querySelector('.main-header');
+        const scrollThreshold = 120; // Antal pixlar innan headern blir genomskinlig
+    
+        if (window.scrollY > scrollThreshold) {
+            header.classList.add('scrolled'); // Blir lite genomskinlig
+        } else {
+            header.classList.remove('scrolled'); // Återgår till solid svart
+        }
+    });
+
+</script>
