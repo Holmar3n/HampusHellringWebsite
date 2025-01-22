@@ -59,6 +59,7 @@ body {
         list-style: none;
         padding: 0;
         margin: 0;
+        align-items: center;
     }
 
         .main-header nav ul li a {
@@ -103,6 +104,7 @@ body {
         list-style: none;
         padding: 0;
         margin: 0;
+        align-items: center;
     }
 
         .main-header-projects nav ul li a {
@@ -450,6 +452,7 @@ body {
 @media (max-width: 768px) {
     .main-header nav ul {
         gap: 20px; /* Mindre mellanrum för små skärmar */
+        height: 40px;
     }
 }
 
@@ -458,6 +461,31 @@ body {
         gap: 10px; /* Mindre mellanrum för små skärmar */
     }
 }
+
+@media (max-width: 768px) {
+    .main-header nav ul li a {
+        font-size: 18px; /* Justera storleken för mobila enheter */
+    }
+}
+
+@media (max-width: 420px) {
+    .main-header nav ul li a {
+        font-size: 40px; /* Justera storleken för mobila enheter */
+    }
+}
+
+@media (max-width: 480px) {
+    .main-header nav ul li a {
+        font-size: 16px; /* Mindre storlek för ännu mindre skärmar */
+    }
+}
+
+@media (min-width: 769px) {
+    .main-header nav ul li a {
+        font-size: 20px; /* Standardstorlek för större skärmar */
+    }
+}
+
 
 @media (max-width: 1200px) {
     .main-header-projects nav ul {
@@ -474,5 +502,29 @@ body {
 @media (max-width: 268px) {
     .main-header-projects nav ul {
         gap: 10px; /* Mindre mellanrum för små skärmar */
+    }
+}
+
+@media (max-width: 768px) {
+    .main-header-projects nav ul li a {
+        font-size: 18px; /* Justera storleken för mobila enheter */
+    }
+}
+
+@media (max-width: 420px) {
+    .main-header-projects nav ul li a {
+        font-size: 40px; /* Justera storleken för mobila enheter */
+    }
+}
+
+@media (max-width: 480px) {
+    .main-header-projects nav ul li a {
+        font-size: 16px; /* Mindre storlek för ännu mindre skärmar */
+    }
+}
+
+@media (min-width: 769px) {
+    .main-header-projects nav ul li a {
+        font-size: 20px; /* Standardstorlek för större skärmar */
     }
 }

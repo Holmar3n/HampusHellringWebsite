@@ -12,17 +12,17 @@
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-pAGv4ietcJNk/EwsQZ5BN9\u002BK4MuNYS2a9wl4Jw\u002Bq9D0="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"362"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022pAGv4ietcJNk/EwsQZ5BN9\u002BK4MuNYS2a9wl4Jw\u002Bq9D0=\u0022"},{"Name":"Last-Modified","Value":"Tue, 14 Jan 2025 19:21:33 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/HampusHellringWebsite/css/style.551vppbtab.css">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\style.css'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"551vppbtab"},{"Name":"integrity","Value":"sha256-icRJbYNEl\u002BVgdjFGCw7qTMGwJgKu2ODhM60veSuZU9s="},{"Name":"label","Value":"_content/HampusHellringWebsite/css/style.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"10822"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022icRJbYNEl\u002BVgdjFGCw7qTMGwJgKu2ODhM60veSuZU9s=\u0022"},{"Name":"Last-Modified","Value":"Wed, 22 Jan 2025 15:01:03 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/HampusHellringWebsite/css/style.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\style.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-icRJbYNEl\u002BVgdjFGCw7qTMGwJgKu2ODhM60veSuZU9s="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"10822"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022icRJbYNEl\u002BVgdjFGCw7qTMGwJgKu2ODhM60veSuZU9s=\u0022"},{"Name":"Last-Modified","Value":"Wed, 22 Jan 2025 15:01:03 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-2OPqObZ\u002BZ30ibYDRU8rq2hOV1na/h4irSPyxc3ZoRWE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"12093"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00222OPqObZ\u002BZ30ibYDRU8rq2hOV1na/h4irSPyxc3ZoRWE=\u0022"},{"Name":"Last-Modified","Value":"Wed, 22 Jan 2025 15:25:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HampusHellringWebsite/css/style.wyv8wcotas.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\style.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"wyv8wcotas"},{"Name":"integrity","Value":"sha256-2OPqObZ\u002BZ30ibYDRU8rq2hOV1na/h4irSPyxc3ZoRWE="},{"Name":"label","Value":"_content/HampusHellringWebsite/css/style.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"12093"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00222OPqObZ\u002BZ30ibYDRU8rq2hOV1na/h4irSPyxc3ZoRWE=\u0022"},{"Name":"Last-Modified","Value":"Wed, 22 Jan 2025 15:25:03 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/HampusHellringWebsite/favicon.61n19gt1b8.ico">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\favicon.ico'))</AssetFile>

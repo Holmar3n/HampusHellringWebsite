@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HampusHellringWebsite")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6243258ce44be3de88511fbb29a7af9af60b7706")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dac1ff7516a452fb26307962ba49f12bb572d55b")]
 [assembly: System.Reflection.AssemblyProductAttribute("HampusHellringWebsite")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HampusHellringWebsite")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
