@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "bOVVafZZY9lSzrjV2uAvkSonMXWDYGjfCEzXOYCLr0c=",
+  "Hash": "zH/UjxoFw7/4+CWV49kFA3pgydb9arAJUlp5IBNPfTM=",
   "Source": "HampusHellringWebsite",
   "BasePath": "_content/HampusHellringWebsite",
   "Mode": "Default",
@@ -94,8 +94,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "1ck4kbwp2y",
-      "Integrity": "8R/JmAggWyMahE8Jqf/a1BitXps3YgSX5GN+PaUud48=",
+      "Fingerprint": "551vppbtab",
+      "Integrity": "icRJbYNEl+VgdjFGCw7qTMGwJgKu2ODhM60veSuZU9s=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\style.css"
@@ -178,8 +178,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "jzn1t5pw7l",
-      "Integrity": "Uc82gS7swyeWiN/znF3PQUTGMU9OHUju4dMgL5sADaY=",
+      "Fingerprint": "2r5unn57i8",
+      "Integrity": "nrtI8SD17QBp7AoY9EyRfTak37eDlW4qlWJ53Dg5+J8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\CV.PNG"
@@ -1592,7 +1592,7 @@
       ]
     },
     {
-      "Route": "css/style.1ck4kbwp2y.css",
+      "Route": "css/style.551vppbtab.css",
       "AssetFile": "C:\\Users\\hampu\\source\\repos\\HampusHellringWebsite\\HampusHellringWebsite\\wwwroot\\css\\style.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -1602,7 +1602,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "10003"
+          "Value": "10822"
         },
         {
           "Name": "Content-Type",
@@ -1610,11 +1610,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"8R/JmAggWyMahE8Jqf/a1BitXps3YgSX5GN+PaUud48=\""
+          "Value": "\"icRJbYNEl+VgdjFGCw7qTMGwJgKu2ODhM60veSuZU9s=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 19 Jan 2025 20:15:41 GMT"
+          "Value": "Wed, 22 Jan 2025 15:01:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1624,7 +1624,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "1ck4kbwp2y"
+          "Value": "551vppbtab"
         },
         {
           "Name": "label",
@@ -1632,7 +1632,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-8R/JmAggWyMahE8Jqf/a1BitXps3YgSX5GN+PaUud48="
+          "Value": "sha256-icRJbYNEl+VgdjFGCw7qTMGwJgKu2ODhM60veSuZU9s="
         }
       ]
     },
@@ -1647,7 +1647,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "10003"
+          "Value": "10822"
         },
         {
           "Name": "Content-Type",
@@ -1655,11 +1655,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"8R/JmAggWyMahE8Jqf/a1BitXps3YgSX5GN+PaUud48=\""
+          "Value": "\"icRJbYNEl+VgdjFGCw7qTMGwJgKu2ODhM60veSuZU9s=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 19 Jan 2025 20:15:41 GMT"
+          "Value": "Wed, 22 Jan 2025 15:01:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1669,7 +1669,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-8R/JmAggWyMahE8Jqf/a1BitXps3YgSX5GN+PaUud48="
+          "Value": "sha256-icRJbYNEl+VgdjFGCw7qTMGwJgKu2ODhM60veSuZU9s="
         }
       ]
     },
@@ -2084,7 +2084,7 @@
       ]
     },
     {
-      "Route": "images/CV.jzn1t5pw7l.PNG",
+      "Route": "images/CV.2r5unn57i8.PNG",
       "AssetFile": "C:\\Users\\hampu\\source\\repos\\HampusHellringWebsite\\HampusHellringWebsite\\wwwroot\\images\\CV.PNG",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2094,7 +2094,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "46101"
+          "Value": "45463"
         },
         {
           "Name": "Content-Type",
@@ -2102,11 +2102,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Uc82gS7swyeWiN/znF3PQUTGMU9OHUju4dMgL5sADaY=\""
+          "Value": "\"nrtI8SD17QBp7AoY9EyRfTak37eDlW4qlWJ53Dg5+J8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 19 Jan 2025 10:35:20 GMT"
+          "Value": "Wed, 22 Jan 2025 14:49:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2116,7 +2116,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "jzn1t5pw7l"
+          "Value": "2r5unn57i8"
         },
         {
           "Name": "label",
@@ -2124,7 +2124,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Uc82gS7swyeWiN/znF3PQUTGMU9OHUju4dMgL5sADaY="
+          "Value": "sha256-nrtI8SD17QBp7AoY9EyRfTak37eDlW4qlWJ53Dg5+J8="
         }
       ]
     },
@@ -2139,7 +2139,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "46101"
+          "Value": "45463"
         },
         {
           "Name": "Content-Type",
@@ -2147,11 +2147,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Uc82gS7swyeWiN/znF3PQUTGMU9OHUju4dMgL5sADaY=\""
+          "Value": "\"nrtI8SD17QBp7AoY9EyRfTak37eDlW4qlWJ53Dg5+J8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 19 Jan 2025 10:35:20 GMT"
+          "Value": "Wed, 22 Jan 2025 14:49:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2161,7 +2161,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Uc82gS7swyeWiN/znF3PQUTGMU9OHUju4dMgL5sADaY="
+          "Value": "sha256-nrtI8SD17QBp7AoY9EyRfTak37eDlW4qlWJ53Dg5+J8="
         }
       ]
     },
