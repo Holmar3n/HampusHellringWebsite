@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "UZFmNjwwBzUCFDiAdNCUw1iIh7MtCvv/Jt4vp79KVA4=",
+  "Hash": "C4QCIz5Jf1CpkuqFNZPajrkCapM6KodDrHpzcnTuoBg=",
   "Source": "HampusHellringWebsite",
   "BasePath": "_content/HampusHellringWebsite",
   "Mode": "Default",
@@ -136,8 +136,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "qxpp8x1oon",
-      "Integrity": "jouXcAL/cwAHItUBpNAJrdDUWvbcJrA1CibuyOOfq8Q=",
+      "Fingerprint": "mtgm7zivyz",
+      "Integrity": "Vk6xg9/ehUu36o37mQ7fpZKI5Ww/fGSF1KwU5epu0ao=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\files\\Hampus Hellring_CV.docx"
@@ -178,8 +178,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "2r5unn57i8",
-      "Integrity": "nrtI8SD17QBp7AoY9EyRfTak37eDlW4qlWJ53Dg5+J8=",
+      "Fingerprint": "8qszv2p844",
+      "Integrity": "MNOngqxixCg1SADQHXnDunAFNtHfEIdtLXITEIu94HA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\CV.PNG"
@@ -1614,7 +1614,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 15:25:03 GMT"
+          "Value": "Sun, 26 Jan 2025 18:05:43 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1651,7 +1651,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 15:25:03 GMT"
+          "Value": "Sun, 26 Jan 2025 18:05:43 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1766,7 +1766,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "225040"
+          "Value": "224765"
         },
         {
           "Name": "Content-Type",
@@ -1774,11 +1774,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"jouXcAL/cwAHItUBpNAJrdDUWvbcJrA1CibuyOOfq8Q=\""
+          "Value": "\"Vk6xg9/ehUu36o37mQ7fpZKI5Ww/fGSF1KwU5epu0ao=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 18 Jan 2025 10:43:36 GMT"
+          "Value": "Sun, 26 Jan 2025 18:01:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1788,12 +1788,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-jouXcAL/cwAHItUBpNAJrdDUWvbcJrA1CibuyOOfq8Q="
+          "Value": "sha256-Vk6xg9/ehUu36o37mQ7fpZKI5Ww/fGSF1KwU5epu0ao="
         }
       ]
     },
     {
-      "Route": "files/Hampus Hellring_CV.qxpp8x1oon.docx",
+      "Route": "files/Hampus Hellring_CV.mtgm7zivyz.docx",
       "AssetFile": "C:\\Users\\hampu\\source\\repos\\HampusHellringWebsite\\HampusHellringWebsite\\wwwroot\\files\\Hampus Hellring_CV.docx",
       "Selectors": [],
       "ResponseHeaders": [
@@ -1803,7 +1803,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "225040"
+          "Value": "224765"
         },
         {
           "Name": "Content-Type",
@@ -1811,11 +1811,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"jouXcAL/cwAHItUBpNAJrdDUWvbcJrA1CibuyOOfq8Q=\""
+          "Value": "\"Vk6xg9/ehUu36o37mQ7fpZKI5Ww/fGSF1KwU5epu0ao=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 18 Jan 2025 10:43:36 GMT"
+          "Value": "Sun, 26 Jan 2025 18:01:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1825,7 +1825,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "qxpp8x1oon"
+          "Value": "mtgm7zivyz"
         },
         {
           "Name": "label",
@@ -1833,7 +1833,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-jouXcAL/cwAHItUBpNAJrdDUWvbcJrA1CibuyOOfq8Q="
+          "Value": "sha256-Vk6xg9/ehUu36o37mQ7fpZKI5Ww/fGSF1KwU5epu0ao="
         }
       ]
     },
@@ -2084,7 +2084,7 @@
       ]
     },
     {
-      "Route": "images/CV.2r5unn57i8.PNG",
+      "Route": "images/CV.8qszv2p844.PNG",
       "AssetFile": "C:\\Users\\hampu\\source\\repos\\HampusHellringWebsite\\HampusHellringWebsite\\wwwroot\\images\\CV.PNG",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2094,7 +2094,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "45463"
+          "Value": "45781"
         },
         {
           "Name": "Content-Type",
@@ -2102,11 +2102,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"nrtI8SD17QBp7AoY9EyRfTak37eDlW4qlWJ53Dg5+J8=\""
+          "Value": "\"MNOngqxixCg1SADQHXnDunAFNtHfEIdtLXITEIu94HA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 14:49:36 GMT"
+          "Value": "Sun, 26 Jan 2025 18:02:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2116,7 +2116,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "2r5unn57i8"
+          "Value": "8qszv2p844"
         },
         {
           "Name": "label",
@@ -2124,7 +2124,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-nrtI8SD17QBp7AoY9EyRfTak37eDlW4qlWJ53Dg5+J8="
+          "Value": "sha256-MNOngqxixCg1SADQHXnDunAFNtHfEIdtLXITEIu94HA="
         }
       ]
     },
@@ -2139,7 +2139,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "45463"
+          "Value": "45781"
         },
         {
           "Name": "Content-Type",
@@ -2147,11 +2147,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"nrtI8SD17QBp7AoY9EyRfTak37eDlW4qlWJ53Dg5+J8=\""
+          "Value": "\"MNOngqxixCg1SADQHXnDunAFNtHfEIdtLXITEIu94HA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 14:49:36 GMT"
+          "Value": "Sun, 26 Jan 2025 18:02:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2161,7 +2161,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-nrtI8SD17QBp7AoY9EyRfTak37eDlW4qlWJ53Dg5+J8="
+          "Value": "sha256-MNOngqxixCg1SADQHXnDunAFNtHfEIdtLXITEIu94HA="
         }
       ]
     },

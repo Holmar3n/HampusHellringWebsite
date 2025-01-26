@@ -66,8 +66,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>qxpp8x1oon</Fingerprint>
-      <Integrity>jouXcAL/cwAHItUBpNAJrdDUWvbcJrA1CibuyOOfq8Q=</Integrity>
+      <Fingerprint>mtgm7zivyz</Fingerprint>
+      <Integrity>Vk6xg9/ehUu36o37mQ7fpZKI5Ww/fGSF1KwU5epu0ao=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\files\Hampus Hellring_CV.docx'))</OriginalItemSpec>
@@ -120,8 +120,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>2r5unn57i8</Fingerprint>
-      <Integrity>nrtI8SD17QBp7AoY9EyRfTak37eDlW4qlWJ53Dg5+J8=</Integrity>
+      <Fingerprint>8qszv2p844</Fingerprint>
+      <Integrity>MNOngqxixCg1SADQHXnDunAFNtHfEIdtLXITEIu94HA=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\CV.PNG'))</OriginalItemSpec>

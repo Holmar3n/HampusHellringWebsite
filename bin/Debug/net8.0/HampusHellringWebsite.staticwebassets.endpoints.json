@@ -193,7 +193,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 15:25:03 GMT"
+          "Value": "Sun, 26 Jan 2025 18:05:43 GMT"
         }
       ],
       "EndpointProperties": [
@@ -230,7 +230,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 15:25:03 GMT"
+          "Value": "Sun, 26 Jan 2025 18:05:43 GMT"
         }
       ],
       "EndpointProperties": [
@@ -345,7 +345,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "225040"
+          "Value": "224765"
         },
         {
           "Name": "Content-Type",
@@ -353,22 +353,22 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"jouXcAL/cwAHItUBpNAJrdDUWvbcJrA1CibuyOOfq8Q=\""
+          "Value": "\"Vk6xg9/ehUu36o37mQ7fpZKI5Ww/fGSF1KwU5epu0ao=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 18 Jan 2025 10:43:36 GMT"
+          "Value": "Sun, 26 Jan 2025 18:01:14 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-jouXcAL/cwAHItUBpNAJrdDUWvbcJrA1CibuyOOfq8Q="
+          "Value": "sha256-Vk6xg9/ehUu36o37mQ7fpZKI5Ww/fGSF1KwU5epu0ao="
         }
       ]
     },
     {
-      "Route": "files/Hampus Hellring_CV.qxpp8x1oon.docx",
+      "Route": "files/Hampus Hellring_CV.mtgm7zivyz.docx",
       "AssetFile": "files/Hampus Hellring_CV.docx",
       "Selectors": [],
       "ResponseHeaders": [
@@ -382,7 +382,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "225040"
+          "Value": "224765"
         },
         {
           "Name": "Content-Type",
@@ -390,21 +390,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"jouXcAL/cwAHItUBpNAJrdDUWvbcJrA1CibuyOOfq8Q=\""
+          "Value": "\"Vk6xg9/ehUu36o37mQ7fpZKI5Ww/fGSF1KwU5epu0ao=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 18 Jan 2025 10:43:36 GMT"
+          "Value": "Sun, 26 Jan 2025 18:01:14 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "qxpp8x1oon"
+          "Value": "mtgm7zivyz"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-jouXcAL/cwAHItUBpNAJrdDUWvbcJrA1CibuyOOfq8Q="
+          "Value": "sha256-Vk6xg9/ehUu36o37mQ7fpZKI5Ww/fGSF1KwU5epu0ao="
         },
         {
           "Name": "label",
@@ -413,7 +413,7 @@
       ]
     },
     {
-      "Route": "images/CV.2r5unn57i8.PNG",
+      "Route": "images/CV.8qszv2p844.PNG",
       "AssetFile": "images/CV.PNG",
       "Selectors": [],
       "ResponseHeaders": [
@@ -427,7 +427,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "45463"
+          "Value": "45781"
         },
         {
           "Name": "Content-Type",
@@ -435,21 +435,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"nrtI8SD17QBp7AoY9EyRfTak37eDlW4qlWJ53Dg5+J8=\""
+          "Value": "\"MNOngqxixCg1SADQHXnDunAFNtHfEIdtLXITEIu94HA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 14:49:36 GMT"
+          "Value": "Sun, 26 Jan 2025 18:02:02 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "2r5unn57i8"
+          "Value": "8qszv2p844"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-nrtI8SD17QBp7AoY9EyRfTak37eDlW4qlWJ53Dg5+J8="
+          "Value": "sha256-MNOngqxixCg1SADQHXnDunAFNtHfEIdtLXITEIu94HA="
         },
         {
           "Name": "label",
@@ -472,7 +472,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "45463"
+          "Value": "45781"
         },
         {
           "Name": "Content-Type",
@@ -480,17 +480,17 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"nrtI8SD17QBp7AoY9EyRfTak37eDlW4qlWJ53Dg5+J8=\""
+          "Value": "\"MNOngqxixCg1SADQHXnDunAFNtHfEIdtLXITEIu94HA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 14:49:36 GMT"
+          "Value": "Sun, 26 Jan 2025 18:02:02 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-nrtI8SD17QBp7AoY9EyRfTak37eDlW4qlWJ53Dg5+J8="
+          "Value": "sha256-MNOngqxixCg1SADQHXnDunAFNtHfEIdtLXITEIu94HA="
         }
       ]
     },
